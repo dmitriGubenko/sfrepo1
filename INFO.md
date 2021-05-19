@@ -1,0 +1,4 @@
+git clone https://github.com/dmitriGubenko/sfrepo1.git - клонируем репозиторий с удаленного сервера
+git status - состояние локального репозитория
+git branch - список локальных веток
+vim INFO.md - создание нового файла 
